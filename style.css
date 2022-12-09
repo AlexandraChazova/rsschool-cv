@@ -1,0 +1,51 @@
+h1 {
+    font-style: italic;
+    color: rgb(16, 69, 69);
+}
+h2 {
+    margin: 0;
+    font-style: italic;
+    color: rgb(16, 69, 69);
+}
+img {
+    width: 300px;
+    height: auto;
+    border-radius: 150px;
+}
+.circuit {
+    background-color: rgb(27, 173, 173);
+    text-align: center;
+    padding: 2%;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(60, 216, 216);   
+}
+.info {
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.aboutMe {
+    width: 50%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-left: 2px solid rgb(27, 173, 173); 
+    text-align: justify;
+}
+.whole {
+    margin-right: 20%;
+    margin-left: 20%; 
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(27, 173, 173); 
+    padding: 2%;   
+}
+.text {
+    margin-left: 20%;
+}
