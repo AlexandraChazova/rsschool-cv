@@ -31,14 +31,12 @@ img {
 .aboutMe {
     width: 50%;
     margin-right: 10%;
+    padding-left: 5%;
     margin-top: 5%;
     margin-bottom: 5%;
     border-left: 2px solid rgb(27, 173, 173); 
     text-align: justify;
-}
-.whole {
-    margin-right: 20%;
-    margin-left: 20%; 
+    
 }
 .footer {
     display: flex;
@@ -46,6 +44,7 @@ img {
     background-color: rgb(27, 173, 173); 
     padding: 2%;   
 }
-.text {
+body {
+    margin-right: 20%;
     margin-left: 20%;
 }
